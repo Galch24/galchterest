@@ -1,0 +1,6 @@
+# No node modules are required
+node_modules
+bower_components
+snapkite-engine
+
+!snapkite-engine/package.json
